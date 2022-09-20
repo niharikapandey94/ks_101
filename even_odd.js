@@ -1,7 +1,7 @@
 let num;
-if(num%==0){
-return sum;
+if(num%2==0){
+ console.log("even")
 }
 else{
-return odd;
+console.log("odd")
 }
