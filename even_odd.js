@@ -1,7 +1,7 @@
 let num;
 if(num%2==0){
- console.log("even")
+ console.log("even number")
 }
 else{
-console.log("odd")
+console.log("odd number")
 }
